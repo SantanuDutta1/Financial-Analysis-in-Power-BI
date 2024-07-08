@@ -3,10 +3,8 @@
 # Financial Analysis of India's Top 500 Companies
 
 <p align="center">
-  <img width="750" height="500" src="Github picture">
+  <img width="750" height="500" src="Github picture/Thumbnail.jpg">
 </p>
-
-
 ## Overview
 
 This repository contains the code and data for analyzing the financial performance of India's top 500 companies. The analysis covers key metrics such as market capitalization, average sales, profitability ratios, and sector-wise trends.
