@@ -26,7 +26,7 @@ India's corporate landscape is dynamic and diverse. Understanding the financial 
 
 ## Data
 
-The dataset used for this analysis can be found in the [`data/`](data/) directory. It includes historical financial data, company profiles, and sector classifications.
+The dataset used for this analysis can be found in the [`data/`](https://github.com/SantanuDutta1/Financial-Analysis-of-India-s-top-500-companies/blob/main/Financial%20Analytics%20data.csv) directory. It includes historical financial data, company profiles, and sector classifications.
 
 ## Methodology
 
@@ -50,5 +50,14 @@ Our findings reveal the following:
 - **Tech Dominance**: Information technology (IT) companies lead in market cap and sales.
 - **Manufacturing Resilience**: Despite challenges, manufacturing remains strong.
 - **Financial Services Boom**: Banks and financial institutions thrive.
+
+## Project Link
+[Link](https://github.com/SantanuDutta1/Financial-Analysis-of-India-s-top-500-companies/blob/main/Financial%20Analysis%20org.pbix)
+
+## Author
+Santanu Dutta  
+[LinkedIn Profile](www.linkedin.com/in/santanu-dutta-b7048a255)  
+[GitHub Profile](https://github.com/SantanuDutta1)  
+
 
 
